@@ -1,0 +1,12 @@
+﻿
+trigger:
+    -development
+    -master
+
+pool:
+   vmImage: 'windows-latest'
+
+
+stages:
+    #define each stage and jobs in it along side steps and tasks
+    #here I want to install nuget / restore and build then release and publish artifact 
