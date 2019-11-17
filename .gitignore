@@ -4,8 +4,15 @@
 **/scripts/*
 **/content/*
 **/fonts/*
+**/.vs/*
+**/App_Data/*
+**/App_Plugins/*
+**/css/*
+**/Media/*
 
-
+**/Properties/*
+**/Umbraco/*
+**/Umbraco_Client/*
 
 ## Ignore Umbraco files/folders generated for each instance
 ##
